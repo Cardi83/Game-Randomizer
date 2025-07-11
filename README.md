@@ -1,6 +1,6 @@
 # 🎮 Now Playing... Game Randomizer
 
-![Languages](https://img.shields.io/github/languages/count/MaxXimumBuB/Game-Randomizer) ![Top Language](https://img.shields.io/github/languages/top/MaxXimumBuB/Game-Randomizer) ![Last Commit](https://img.shields.io/github/last-commit/MaxXimumBuB/Game-Randomizer)
+![Languages](https://img.shields.io/github/languages/count/Cardi83/Game-Randomizer) ![Top Language](https://img.shields.io/github/languages/top/Cardi83/Game-Randomizer) ![Last Commit](https://img.shields.io/github/last-commit/Cardi83/Game-Randomizer)
 
 A stylish and intuitive **game randomizer** and collection manager built by **Chris Cardi** using [NiceGUI](https://nicegui.io). Add games manually or via CSV, search through your entire list, and roll a random pick when you can’t decide what to play.
 
